@@ -1,5 +1,5 @@
 # Hola_Mundoooooo
-Repositorio de Prueba, súper cool.
+Repositorio de Prueba, Rama 1.
 
 
 Autor: Carlos Alberto Ramírez Escamilla
